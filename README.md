@@ -12,3 +12,6 @@
 <br />
 #### Option 2. Direct link to the Tutorial 4 Notebook:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cimcb/MetabSimpleQcViz/master?filepath=Tutorial4.ipynb)
+
+#### Option 3. Direct link to the Test Notebook:
+[![Binder(https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aiprof/JupyterExample/91b0c27bbe062f4ecf7f23e8e0b010848a09438a)
