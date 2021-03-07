@@ -1,0 +1,4 @@
+PartId, LinkNum, FromLocn, ToLocn, FromLat, FromLon, ToLat, ToLon
+p00001, 1, Tokyo, Taepie, 0,0,0,0
+p00001, 2, Taepie, Delhi, 0,0,0,0
+p00001, 3, Delhi, Detroit, 0,0,0,0
